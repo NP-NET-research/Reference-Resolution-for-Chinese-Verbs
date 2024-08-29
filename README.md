@@ -19,7 +19,7 @@
 
 ## 数据集介绍
 
-数据集涵盖1,000篇文档，见文件 [](samples.jsonl)。
+数据集涵盖1,000篇文档，见文件 [samples.jsonl](samples.jsonl)。
 
 ### 数据集格式介绍
 
